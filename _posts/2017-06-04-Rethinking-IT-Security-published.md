@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The book has been published: Rethinking IT Security." 
+author: Svavar Ingi Hermannsson
 categories: security book
 ---
 ![RethinkingITSecurity]({{ site.baseurl }}/images/rethinkingitsecurity.jpg)
